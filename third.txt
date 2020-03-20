@@ -1,1 +1,3 @@
 this is our third file this file is modified
+
+added some text to THIRD
